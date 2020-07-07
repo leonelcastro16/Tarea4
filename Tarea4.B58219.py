@@ -128,7 +128,7 @@ plt.show()
 # asignación del rango de valores de dB 
 SNR2=np.arange(-2,4)
 BER2= np.zeros(SNR2.shape)
-
+Es = np.sum(sen**2)
 for o in range(len(SNR2)):
     pn2=Ps/(10**(SNR2[o]/10))
     res2=np.sqrt(pn2)
