@@ -41,10 +41,15 @@ Despúes del canal de ruido obtenemos la siguiente grafica de densidad espectral
 Al realizar la demoldulación y decodificación de la señal  logramos obtener las siguientes tasas de error para todos los valores de SNR  que van desde -2 hasta 3dB.
 
 Hay un total de 14.0 errores, para una tasa de error de 0.0014 en el dB -2.
+
 Hay un total de 4.0 errores, para una tasa de error de 0.0004 en el dB -1.
+
 Hay un total de 1.0 errores, para una tasa de error de 0.0001 en el dB 0.
+
 Hay un total de 0.0 errores, para una tasa de error de 0.0 en el dB 1.
+
 Hay un total de 0.0 errores, para una tasa de error de 0.0 en el dB 2.
+
 Hay un total de 0.0 errores, para una tasa de error de 0.0 en el dB 3.
 
 #### 6. Graficar BER versus SNR.
